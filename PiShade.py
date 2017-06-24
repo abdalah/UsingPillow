@@ -39,4 +39,4 @@ for x in range(size):
             pixels[x,y] = picture.getpixel( (x,y) )
 
 img.show()
-img.save("shaderExapmle.png")
+img.save("shaderExample.png")
