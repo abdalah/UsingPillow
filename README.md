@@ -6,8 +6,8 @@ I've made some examples of modifying images using the Pillow library in Python. 
 
 ## Pixel Replacement
 
-### Digitize.py
-
+### [Digitize.py](../blob/master/Digitize.py)
+ 
 This one takes each pixel and replaces it with the digits of Pi.
 
 ![digitizedExample.png](https://github.com/abdalah/UsingPillow/raw/master/digitizedExample.png "digitizedExample.png")
